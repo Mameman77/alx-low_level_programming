@@ -1,0 +1,1 @@
+This repository contains programs written in C language for the second project of the first trimester at Holberton School. The programs cover topics on the use of variables, conditional statements if-else and loops while in C programming language.
